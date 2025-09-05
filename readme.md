@@ -15,6 +15,7 @@ A basic keylogger program that records and logs keystrokes. Focus on logging the
 - A basic keylogger program that records and logs keystrokes. Focus on logging the keys pressed and saving them to a file.
 - Types of Keyloggers
 Type How It Works Use Case
+
 | Type            | Icon | Description                                                                                     | Usage Context                                  |
 |-----------------|------|-------------------------------------------------------------------------------------------------|----------------------------------------------|
 | Software-based  | 🧩   | Captures keystrokes via OS-level hooks.                                                         | Most common for monitoring or attacks.      |
@@ -57,4 +58,5 @@ The SCT_CS_4 project is licensed under the [MIT License](https://opensource.org/
 
 - For any questions or inquiries, please feel free to reach out to the project maintainer at furqan01510@gamil.com
 - You can also find more information on my linkedin website https://www.linkedin.com/in/furqan01510/
+
 
