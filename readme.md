@@ -15,10 +15,12 @@ A basic keylogger program that records and logs keystrokes. Focus on logging the
 - A basic keylogger program that records and logs keystrokes. Focus on logging the keys pressed and saving them to a file.
 - Types of Keyloggers
 Type How It Works Use Case
-Software-based 🧩 Captures keystrokes via OS-level hooks. Most common for monitoring or attacks.
-Hardware-based 🔌 Physical devices plugged between keyboard & computer. Harder to detect, used in espionage.
-Network-based 🌐 Sniffs packets to intercept credentials. Often used in Wi-Fi or LAN attacks.
-Cloud-based ☁️ Logs keystrokes remotely. Used by spyware and some parental-control tools.
+| Type            | Icon | Description                                                                                     | Usage Context                                  |
+|-----------------|------|-------------------------------------------------------------------------------------------------|----------------------------------------------|
+| Software-based  | 🧩   | Captures keystrokes via OS-level hooks.                                                         | Most common for monitoring or attacks.      |
+| Hardware-based  | 🔌   | Physical devices plugged between keyboard & computer.                                          | Harder to detect, used in espionage.        |
+| Network-based   | 🌐   | Sniffs packets to intercept credentials.                                                       | Often used in Wi-Fi or LAN attacks.        |
+| Cloud-based     | ☁️   | Logs keystrokes remotely.                                                                     | Used by spyware and some parental-control tools. |
 
 ## Technologies Used
 
@@ -55,3 +57,4 @@ The SCT_CS_4 project is licensed under the [MIT License](https://opensource.org/
 
 - For any questions or inquiries, please feel free to reach out to the project maintainer at furqan01510@gamil.com
 - You can also find more information on my linkedin website https://www.linkedin.com/in/furqan01510/
+
